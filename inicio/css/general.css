@@ -1,0 +1,73 @@
+body{
+     font-family: georgia, times, serif;
+    
+    background-image: url(../imagenes/fondo-hombre.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+
+.card a{
+    text-decoration: none;
+    color:black;
+}
+
+/*cabecera*/
+
+.logo{
+    letter-spacing: 10px;
+    font-size: 1.3em;
+    margin-left: 15rem;
+}
+
+
+.nav-container{
+    margin-right: 15rem;
+}
+
+
+.main {
+    padding-top: 3rem;
+}
+
+
+/*cuerpo*/
+
+.btn-head{
+    background: transparent;
+    
+}
+
+.lineaHead{
+    border: 2px solid #333;
+}
+
+.lineCat{
+    margin-top: 0;
+    border: 1px solid #333;
+}
+
+.titulos{
+    
+    margin-top: 50px;
+    
+}
+
+
+.cont{
+    
+    background: white;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    padding-bottom: 9rem;
+    padding-top: 4rem;
+}
+
+/*pie*/
+
+.footer{
+    
+    background: #333;
+    color: aliceblue;
+}
