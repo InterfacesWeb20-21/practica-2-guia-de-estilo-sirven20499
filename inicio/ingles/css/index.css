@@ -1,0 +1,106 @@
+body {
+    font-family: georgia, times, serif;
+    color: #333;
+    width:100%;
+    margin: 0;
+    
+    background-image:url("../imagenes/fondo1.png") ; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed; 
+    position: relative;
+    
+}
+ 
+
+
+/*cabecera*/
+.logo{
+    letter-spacing: 10px;
+    font-size: 2em;
+    margin-left: 15rem;
+}
+
+
+.nav-container{
+    margin-right: 15rem;
+}
+
+
+.main {
+
+    padding-top: 3rem;
+     
+   
+}
+
+/*cuerpo*/
+.cont-white{
+    background:#fafafa;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    padding-bottom: 3rem;
+    padding-top: 0.2rem;
+}
+   
+
+/*slider*/
+.b-rad{
+    border-radius: 5px;
+}
+
+
+
+/* categorias */
+
+
+hr{
+    border: 2px solid #333;
+    width: 100%;
+    border-radius: 10px;
+}
+
+h2{
+    color: #333;
+}
+
+.cont{
+   
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(224,224,224,1) 0%,rgba(35,35,35,1) 100%);
+    padding: 3rem;
+    border-radius: 5px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+    .cont a{
+        color: white;
+        text-decoration: none; 
+        font-size: 20px;
+        font-family: fantasy;
+        text-shadow: 1px 2px black;
+        font-weight: 1000;
+    }
+        
+        
+.cImg{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+
+
+
+.footer{
+    background: #333;
+    color: white;
+   
+}
+
+
+
+
+
+
+
